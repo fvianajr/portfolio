@@ -6,9 +6,9 @@ Bem-vindo(a) ao meu repositório de portfólio! Aqui você encontrará projetos 
 
 ## 🧐 Sobre o Repositório  
 
-Este portfólio é um espaço para compartilhar meu trabalho com dados. O projeto inicial foca na análise de **NPS (Net Promoter Score)** usando o **Looker Studio**, mas novos projetos serão adicionados conforme forem desenvolvidos.  
+Este portfólio é um espaço para apresentar projetos de análise de dados que demonstram minha experiência em transformar informações em insights relevantes. Ele reúne dashboards interativos e análises que cobrem diferentes áreas, utilizando ferramentas e abordagens estratégicas.  
 
-💡 **Objetivo:** Mostrar como transformo dados em insights valiosos para a tomada de decisão, utilizando ferramentas avançadas e storytelling visual.  
+💡 **Objetivo:** Mostrar como aplico técnicas de análise de dados para gerar valor e apoiar decisões informadas, com foco em storytelling visual e resultados práticos.  
 
 ---
 
@@ -21,6 +21,14 @@ Este portfólio é um espaço para compartilhar meu trabalho com dados. O projet
 - Acompanhamento consolidado e diário do NPS, facilitando a identificação de tendências. 
 - Insights detalhados sobre desempenho por fila de atendimento e TMA.
 - Avaliação individual para destacar talentos e áreas de melhoria.
+
+### 2️⃣ **Dashboard Financeiro no Power BI**  
+📊 **Descrição:** Este dashboard analisa os indicadores financeiros de um hotel, ajudando a compreender o desempenho econômico e a identificar oportunidades de otimização.  
+🔧 **Ferramentas Utilizadas:** Power BI, Excel.  
+✨ **Destaques:**  
+- Acompanhamento consolidado de receitas, despesas, lucro e margem de lucro.  
+- Visualização segmentada por ano e estação do ano para análise sazonal.  
+- Gráficos interativos para facilitar a tomada de decisões financeiras.
 
 ---
 
